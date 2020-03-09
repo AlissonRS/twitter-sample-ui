@@ -1,0 +1,22 @@
+<div *ngIf="user" class="user-card">
+    <img class="img-fluid" [src]="user.coverImageUrl">
+
+    <div class="half-float">
+        <div class="half-float-top">
+            <img class="img-thumbnail circle thumb" [src]="user.thumbnailUrl">
+        </div>
+        <div class="flex column align-items-stretch p-2">
+            <div class="item flex align-items-stretch">
+                <div class="item"></div>
+                <div class="item grow-2">
+                    <div class="title">{{ user.name }}</div>
+                    <div class="username">@{{ user.username }}</div>
+                </div>
+            </div>
+
+            <div class="item pt-3">
+                <app-user-stats></app-user-stats>
+            </div>
+        </div>
+    </div>
+</div>

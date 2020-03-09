@@ -1,0 +1,14 @@
+<div class="flex align-items-stretch" *ngFor="let follow of followList">
+    <div class="item grow-0">
+        <img class="circle thumb" [src]="follow.thumbnailUrl">
+    </div>
+    <div class="item">
+        <div class="pb-2">
+            <span class="user-details">
+                <span class="name">{{ follow.name }} </span> <span class="username">@{{ follow.username }}</span>
+            </span>
+            <span class="dismiss" (click)="dismissFollowSuggestion(follow)">x</span>
+        </div>
+        <button class="btn btn-primary btn-outline btn-sm">Follow</button>
+    </div>
+</div>

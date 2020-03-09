@@ -1,0 +1,12 @@
+.user-stats-title {
+    font-size: small;
+    font-weight: 700;
+    color: gray;
+    margin-bottom: 5px;
+}
+
+.user-stats-counter {
+    font-size: large;
+    font-weight: 700;
+    color: rgb(29,161,242);
+}

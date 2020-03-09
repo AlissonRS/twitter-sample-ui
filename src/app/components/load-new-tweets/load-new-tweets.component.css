@@ -1,0 +1,11 @@
+.load-box {
+    border-top: 1px solid rgb(230,236,240);
+    border-bottom: 1px solid rgb(230,236,240);
+}
+
+a {
+    padding: 10px;
+    display: block;
+    background-color: rgb(245,248,250);
+    font-size: 12px;
+}

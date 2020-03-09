@@ -1,0 +1,29 @@
+nav {
+    height: 50px;
+    background-color: #fff;
+    margin: 0;
+}
+
+.nav-inner {
+    height: 100%;
+}
+
+nav a {
+    color: #000;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-decoration: none;
+}
+
+nav a.active {
+    color: rgb(29,161,242);
+    border-bottom: 2px solid rgb(29,161,242);
+}
+
+a i {
+    padding-right: 5px;
+}
+
+.flex-basis-90 {
+    flex-basis: 90%;
+}

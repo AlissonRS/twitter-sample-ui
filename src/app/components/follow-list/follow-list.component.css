@@ -1,0 +1,46 @@
+.name {
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.username {
+    text-decoration: none;
+}
+
+.user-details {
+    overflow: hidden;
+    white-space:nowrap;
+    text-overflow:ellipsis;
+    width:150px;
+    display:inline-block;
+}
+
+.grow-0 {
+    flex-grow: 0;
+}
+
+.img-thumbnail {
+    padding: .125rem;
+    background-color: #f5f7fa;
+    border: 1px solid #dee2e6;
+    border-radius: .25rem;
+}
+
+.thumb {
+    width: 60px!important;
+    height: 60px!important;
+}
+
+button {
+    font-weight: 700;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.dismiss {
+    right: 0;
+    color: lightgray;
+    font-size: small;
+    vertical-align: top;
+    cursor: pointer;
+}

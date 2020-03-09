@@ -1,0 +1,10 @@
+.advertise {
+    border-top: 1px lightgray solid;
+    padding: 15px;
+}
+
+.footer a, .footer span {
+    font-size: 12px;
+    color: rgb(101, 119, 134);
+    padding-right: 5px;
+}

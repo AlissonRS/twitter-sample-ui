@@ -1,0 +1,13 @@
+<div *ngIf="user" class="new-tweet flex align-items-stretch">
+    <div class="item no-grow">
+        <img class="circle thumb" [src]="user.thumbnailUrl">
+    </div>
+    <div class="item flex align-items-stretch">
+        <div class="item flex input-group background-white">
+            <input class="item" type="text" placeholder="What's happening?">
+            <a href="#" class="item no-grow">
+                <i class="mdi mdi-image-outline"></i>
+            </a>
+        </div>
+    </div>
+</div>

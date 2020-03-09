@@ -1,0 +1,38 @@
+.new-tweet {
+    background-color: rgb(232,245,253);
+    padding: 12px 15px;
+}
+
+.thumb {
+    width: 30px!important;
+    height: 30px!important;
+}
+
+.circle {
+    border: none;
+}
+
+.image {
+    flex-basis: 40px;
+}
+
+.input-group {
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: .25rem;
+    border: 1px solid rgb(199,231,250);
+}
+
+input {
+    padding: 7px;
+    border: none;
+    outline: none;
+}
+
+::-webkit-input-placeholder, :-ms-input-placeholder, ::placeholder {
+    color: rgb(29,161,242);
+  }
+
+  a i {
+    font-size: 18px;
+  }

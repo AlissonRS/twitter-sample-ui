@@ -1,0 +1,62 @@
+@import '~font-awesome/css/font-awesome.css';
+@import '~@mdi/font/css/materialdesignicons.css';
+@import './containers.css';
+@import './flex.css';
+@import './padding.css';
+@import './buttons.css';
+
+body, html {
+    width: 100%;
+  }
+
+body {
+    background-color: #e6ecf0;
+    margin: 0;
+    padding: 0;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+.title {
+    color: rgb(20, 23, 26);
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.username {
+    color: rgb(101, 119, 134);
+    text-decoration: underline;
+    font-size: small;
+}
+
+.circle {
+    display: inline-block;
+    border-radius: 500px;
+    margin: 0 .5em;
+    background-color: #f5f7fa;
+    vertical-align: baseline;
+    border: 2px solid transparent;
+}
+
+.background-white {
+    background-color: #fff;
+}
+
+.float-left {
+    float: left!important;
+}
+
+.float-right {
+    float: right!important;
+}
+
+.primary-color {
+    color: rgb(93,185,243);
+}
+
+.text-center {
+    text-align: center!important;
+}
+
+a i {
+    color: rgb(93,185,243);
+  }

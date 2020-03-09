@@ -1,0 +1,45 @@
+.user-card {
+    background-color: #fff;
+}
+
+.img-fluid, .img-thumbnail {
+    max-width: 100%;
+    height: auto;
+}
+
+.half-float {
+    position: relative;
+}
+
+.half-float-top {
+    position: absolute;
+    top: -34px;
+    width: 64px;
+    height: 64px;
+    z-index: 2;
+}
+
+.img-thumbnail {
+    padding: .125rem;
+    background-color: #f5f7fa;
+    border: 1px solid #dee2e6;
+    border-radius: .25rem;
+}
+
+.circle {
+    display: inline-block;
+    border-radius: 500px;
+    margin: 0 .5em;
+    background-color: #f5f7fa;
+    vertical-align: baseline;
+    border: 2px solid transparent;
+}
+
+.thumb {
+    width: 60px!important;
+    height: 60px!important;
+}
+
+.grow-2 {
+    flex-grow: 2;
+}

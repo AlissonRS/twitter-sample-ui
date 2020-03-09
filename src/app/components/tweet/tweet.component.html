@@ -1,0 +1,39 @@
+<div class="tweet flex align-items-stretch">
+    <div class="item no-grow">
+        <img class="circle thumb" [src]="tweet.author.thumbnailUrl">
+    </div>
+    <div class="item flex column align-items-stretch">
+        <div class="item flex align-items-start p-2">
+            <div class="item">
+                <span class="name pr-2">{{ tweet.author.name }}</span>
+                <span class="username">@{{ tweet.author.username }} · {{ tweet.userFriendlyDate }}</span>
+            </div>
+            <span class="item no-grow"><i class="mdi mdi-chevron-down"></i></span>
+        </div>
+        <div class="item tweet-body p-2">
+            {{ tweet.tweetBody }}
+        </div>
+        <div class="item p-2">
+            <div class="text-center">
+                <img class="tweet-image" [src]="tweet.attachedItemUrl">
+            </div>
+        </div>
+        <div class="item no-grow pl-3">
+            <div class="flex tweet-actions">
+                <span class="item">
+                    <i class="mdi mdi-comment-outline"></i>
+                </span>
+                <span class="item">
+                    <i class="mdi mdi-twitter-retweet"></i> 2
+                </span>
+                <span class="item">
+                    <i class="mdi mdi-heart-outline"></i> 8
+                </span>
+                <span class="item">
+                    <i class="mdi mdi-email-outline"></i>
+                </span>
+                <span class="extra-space"></span>
+            </div>
+        </div>
+    </div>
+</div>
