@@ -1,5 +1,6 @@
 import { Tweet } from './tweet.model';
 import { Follow } from './follow.model';
+import { Trend } from './trend.model';
 
 export class User {
 
@@ -12,6 +13,7 @@ export class User {
     public tweetCount: number;
     public timelineTweets: Tweet[];
     public whoToFollow: Follow[];
+    public trends: Trend[];
     
     public constructor(init?:Partial<User>) {
         Object.assign(this, init);

@@ -6,10 +6,20 @@
         "followersCount": 19,
         "thumbnailUrl": "https://pbs.twimg.com/profile_images/1030455241810952194/w_C-MDcW_200x200.jpg",
         "coverImageUrl": "https://pbs.twimg.com/profile_banners/90938499/1527008393/600x200",
+        "trends": [
+            {"title": "Sarah Sanders", "description": "Sarah Sanders will leave her role as White House press secretary this month"},
+            {"title": "Dan Howell", "description": "51K Tweets"},
+            {"title": "Governor of Arkansas", "description": "6,907 Tweets"},
+            {"title": "#ThursdayThougths", "description": "87.6K Tweets"},
+            {"title": "Hatch Act", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."},
+            {"title": "Kellyanne Conway", "description": "1,456 Tweets"},
+            {"title": "Iran", "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo"},
+            {"title": "Sarah Huckabee Sanders", "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"}
+        ],
         "whoToFollow": [
             { "name": "Julie Lerman", "username": "julielerman", "thumbnailUrl": "https://pbs.twimg.com/profile_images/3300099539/d3f67204d791bca0bcd14db7337b6758_200x200.jpeg" },
             { "name": "Hugo Larochelle", "username": "hugo_larochelle", "thumbnailUrl": "https://pbs.twimg.com/profile_images/690922518450999299/P_ysEBaS_200x200.png" }
-          ],
+        ],
         "timelineTweets": [          
             {
                 "tweetId": "29ff31e6-52c8-4111-9c5a-e9cc55b23f84",
@@ -36,10 +46,20 @@
         "followersCount": 421,
         "thumbnailUrl": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_200x200.jpg",
         "coverImageUrl": "https://pbs.twimg.com/profile_banners/216939636/1483126470/600x200",
+        "trends": [
+            {"title": "Iran", "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo"},
+            {"title": "Hatch Act", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."},
+            {"title": "#ThursdayThougths", "description": "87.6K Tweets"},
+            {"title": "Governor of Arkansas", "description": "6,907 Tweets"},
+            {"title": "Kellyanne Conway", "description": "1,456 Tweets"},
+            {"title": "Sarah Sanders", "description": "Sarah Sanders will leave her role as White House press secretary this month"},
+            {"title": "Dan Howell", "description": "51K Tweets"},
+            {"title": "Sarah Huckabee Sanders", "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"}
+        ],
         "whoToFollow": [
             { "name": "Berkeley Engineering", "username": "Cal_Engineer", "thumbnailUrl": "https://pbs.twimg.com/profile_images/799691419891814400/Dn6LUUif_200x200.jpg" },
             { "name": "ONE PIECE", "username": "Eiichiro_Staff", "thumbnailUrl": "https://pbs.twimg.com/profile_images/1179063964010835968/235b13gR_200x200.jpg" }
-          ],
+        ],
         "timelineTweets": [            
             {
                 "tweetId": "29ff31e6-52c8-4111-9c5a-e9cc55b23f84",
