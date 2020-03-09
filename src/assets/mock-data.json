@@ -26,6 +26,8 @@
                 "order": 1,
                 "tweetBody": "Great having EricTopol visit just now. His book Deep Medicine gives a compelling vision for AI in healthcare. We had fun chatting about ML applied to everything from EKG to X-rays to EHR, and how exciting it is to see widespread progress on many fronts!",
                 "userFriendlyDate": "26m",
+                "retweetCount": 2,
+                "loveCount": 8,
                 "attachedItemUrl": "https://pbs.twimg.com/media/EPoxBtGUUAA5atd?format=jpg&name=small",
                 "author": { "name": "Andrew Ng", "username": "AndrewYNg", "thumbnailUrl": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_200x200.jpg" }
             },
@@ -34,6 +36,8 @@
                 "order": 2,
                 "tweetBody": "Holy smokes! My book is the #1 new release for programming books on Amazon! *happy dance*",
                 "userFriendlyDate": "Jan 31",
+                "retweetCount": 5,
+                "loveCount": 14,
                 "attachedItemUrl": "https://pbs.twimg.com/media/ESoH5oxXgAEovWd?format=jpg&name=small",
                 "author": { "name": "Sarah Drasner", "username": "sarah_edo", "thumbnailUrl": "https://pbs.twimg.com/profile_images/1225613270205091840/NyoNYuhC_200x200.jpg" }
             }
@@ -66,6 +70,8 @@
                 "order": 1,
                 "tweetBody": "You can style the output of 'console.log' using '%c'. For example: console.log('%cHello, world!', 'color: red'); will output 'Hello, world!' in red font color.",
                 "userFriendlyDate": "4m",
+                "retweetCount": 81,
+                "loveCount": 142,
                 "attachedItemUrl": "https://pbs.twimg.com/media/ESXdNsTWoAE0Cba?format=jpg&name=small",
                 "author": { "name": "Minko Gechev", "username": "mgechev", "thumbnailUrl": "https://pbs.twimg.com/profile_images/1234647148689416192/YT4k8pWZ_bigger.jpg" }
             },  
@@ -74,6 +80,8 @@
                 "order": 2,
                 "tweetBody": "To develop futuristic technologies like quantum computers, scientists will need to find ways to control photons, the basic particles of light, just as precisely as they can already control electrons, the basic particles in electronic computing.",
                 "userFriendlyDate": "Feb 21",
+                "retweetCount": 96,
+                "loveCount": 257,
                 "attachedItemUrl": "https://pbs.twimg.com/media/ERUFyHhUwAAjbdg?format=jpg&name=small",
                 "author": { "name": "Stanford Engineering", "username": "StanfordEng", "thumbnailUrl": "https://pbs.twimg.com/profile_images/879466804854181889/tqXd2ZQd_200x200.jpg" }
             }

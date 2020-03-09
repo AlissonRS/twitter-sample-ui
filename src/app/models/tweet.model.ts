@@ -6,6 +6,8 @@ export class Tweet {
     public author: User;
     public order: number;
     public userFriendlyDate: string;
+    public retweetCount: number;
+    public loveCount: number;
     public tweetBody: string;
     public attachedItemUrl: string;
 
